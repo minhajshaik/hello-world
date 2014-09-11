@@ -3,3 +3,4 @@
 1. Pull this file to your local repository using pull.
 2. Updated file locally, on using pull this line should be deleted?
 3. Updated file in Github again and pull. This should be new in local?
+4. Updated file locally, on using push this line should be added in github?
