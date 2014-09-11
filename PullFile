@@ -1,5 +1,4 @@
 #  git pull and git fetch origin
 
-1. Pull this file to your local repository using fit pull.
-2. Updated file in Github again and pull.
-3. Updated file locally, on using pull this line should be deleted?
+1. Pull this file to your local repository using pull.
+2. Updated file locally, on using pull this line should be deleted?
