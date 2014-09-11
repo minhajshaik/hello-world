@@ -1,4 +1,9 @@
 #  git pull and git fetch origin
 
 1. Pull this file to your local repository using pull.
+<<<<<<< HEAD
 2. Updated file locally, on using pull this line should be deleted?
+=======
+2. Updated file in Github again and pull. This should be new in local?
+
+>>>>>>> 9ad9f7ebb191db429268b2d643bd2fe20415eb5a
